@@ -18,8 +18,15 @@
 %
 % Please cite the following paper:
 
-Pengfei Zhu, Wencheng Zhu, Qinghua Hu, Changqing Zhang, Wangmeng Zuo. 
-Subspace Clustering guided Unsupervised Feature Selection. Pattern Recognition 2016
+@article{zhu2017subspace,
+  title={Subspace clustering guided unsupervised feature selection},
+  author={Zhu, Pengfei and Zhu, Wencheng and Hu, Qinghua and Zhang, Changqing and Zuo, Wangmeng},
+  journal={Pattern Recognition},
+  volume={66},
+  pages={364--374},
+  year={2017},
+  publisher={Elsevier}
+}
 
 % Contact: zhupengfei@tju.edu.cn 
 %----------------------------------------------------------------------
